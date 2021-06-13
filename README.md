@@ -11,3 +11,7 @@ api_ikey="XX..."
 api_skey="XXXX........"  
 duo_host="api-XXXXXXX.duosecurity.com"  
 
+
+HOW TO USE:
+python3 ad_sync_per_user.py userame
+
