@@ -1,4 +1,4 @@
-Duo_AD_sync_per_user
+## Duo_AD_sync_per_user
 
 Description: 
 This script initiates a sync to create, update, or mark for deletion the user specified by username against the directory specified by the directory_key.
