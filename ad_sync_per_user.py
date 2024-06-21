@@ -85,7 +85,7 @@ if __name__ == "__main__":
     print("AD sync per user v1.0")
     if len(sys.argv) != 2:
         print("HOW TO USE:")
-        print("python3 ad_sync_per_user.py userame" )
+        print("python3 ad_sync_per_user.py username" )
         exit()
     AD_sync_per_user(Duo_directory_key, sys.argv[1])
 
